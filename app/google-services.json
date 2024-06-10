@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546096985204",
+    "project_id": "authentication-pract-fire",
+    "storage_bucket": "authentication-pract-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546096985204:android:8b42a75278d239e24c0d21",
+        "android_client_info": {
+          "package_name": "com.hasc.firebaseauthpract"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkl3OoP_JitgGHR-KXFxYHtDFEwr8qx_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
